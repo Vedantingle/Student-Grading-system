@@ -1,0 +1,60 @@
+Student: ved
+Class: 3
+Subject 1 Marks: 78.0
+Subject 2 Marks: 89.0
+Subject 3 Marks: 87.0
+Subject 4 Marks: 99.0
+Subject 5 Marks: 66.0
+Average: 83.8
+Grade: A
+--------------------------------------------------
+Student: vgh
+Class: 8
+Subject 1 Marks: 73.0
+Subject 2 Marks: 87.0
+Subject 3 Marks: 84.0
+Subject 4 Marks: 99.0
+Subject 5 Marks: 20.0
+Average: 72.6
+Grade: B
+--------------------------------------------------
+Student: vedant
+Class: 10
+Subject 1 Marks: 90.0
+Subject 2 Marks: 99.0
+Subject 3 Marks: 89.0
+Subject 4 Marks: 89.0
+Subject 5 Marks: 87.0
+Average: 90.8
+Grade: A+
+--------------------------------------------------
+Student: sam
+Class: 10
+Subject 1 Marks: 67.0
+Subject 2 Marks: 54.0
+Subject 3 Marks: 78.0
+Subject 4 Marks: 90.0
+Subject 5 Marks: 54.0
+Average: 68.6
+Grade: C
+--------------------------------------------------
+Student: yo
+Class: 10
+Subject 1 Marks: 67.0
+Subject 2 Marks: 54.0
+Subject 3 Marks: 78.0
+Subject 4 Marks: 90.0
+Subject 5 Marks: 54.0
+Average: 68.6
+Grade: C
+--------------------------------------------------
+Student: janvi
+Class: 10
+Subject 1 Marks: 21.0
+Subject 2 Marks: 34.0
+Subject 3 Marks: 45.0
+Subject 4 Marks: 34.0
+Subject 5 Marks: 12.0
+Average: 29.2
+Grade: F
+--------------------------------------------------
